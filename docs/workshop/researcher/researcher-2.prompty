@@ -14,7 +14,7 @@ model:
   parameters:
     tools: ${file:functions.json}
 sample:
-  instructions: Can you find the best educational material for learning Python programming?
+  instructions: Find the latest news about Microsoft?
 ---
 system:
 # Researcher Agent
